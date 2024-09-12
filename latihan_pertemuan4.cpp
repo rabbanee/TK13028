@@ -38,6 +38,7 @@ int main() {
     cout << "Selamat datang Daffa" << endl;
   } else {
     cout << "Username atau password salah" << endl;
+    return 0;
   }
 
 
